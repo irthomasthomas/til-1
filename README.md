@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1834 TILs and counting..._
+_1835 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1510,6 +1510,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Install Latest Version Of Ruby With asdf](ruby/install-latest-version-of-ruby-with-asdf.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
 - [IRB Has Built-In Benchmarking With Ruby 3](ruby/irb-has-built-in-benchmarking-with-ruby-3.md)
+- [IRB Prints A Helpful Welcome Prompt](ruby/irb-prints-a-helpful-welcome-prompt.md)
 - [Join URI Path Parts](ruby/join-uri-path-parts.md)
 - [Jump Out Of A Nested Context With Throw/Catch](ruby/jump-out-of-a-nested-context-with-throw-catch.md)
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
