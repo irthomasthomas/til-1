@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1881 TILs and counting..._
+_1882 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -457,6 +457,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Stash Everything](git/stash-everything.md)
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
+- [Summarize Amount Of Change For Specific Commit](git/summarize-amount-of-change-for-specific-commit.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
 - [Transition A Branch From One Base To Another](git/transition-a-branch-from-one-base-to-another.md)
 - [Turn Off The Output Pager For One Command](git/turn-off-the-output-pager-for-one-command.md)
